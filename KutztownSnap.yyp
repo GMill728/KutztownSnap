@@ -35,6 +35,7 @@
   },
   "name":"KutztownSnap",
   "resources":[
+    {"id":{"name":"obj_StartGame","path":"objects/obj_StartGame/obj_StartGame.yy",},},
     {"id":{"name":"AcademicForum","path":"rooms/AcademicForum/AcademicForum.yy",},},
     {"id":{"name":"Beeky","path":"rooms/Beeky/Beeky.yy",},},
     {"id":{"name":"Boehm","path":"rooms/Boehm/Boehm.yy",},},
@@ -48,6 +49,7 @@
     {"id":{"name":"RickenbachLearningCenter","path":"rooms/RickenbachLearningCenter/RickenbachLearningCenter.yy",},},
     {"id":{"name":"RohrbachLibrary","path":"rooms/RohrbachLibrary/RohrbachLibrary.yy",},},
     {"id":{"name":"Sharadin","path":"rooms/Sharadin/Sharadin.yy",},},
+    {"id":{"name":"spr_MainMenu","path":"sprites/spr_MainMenu/spr_MainMenu.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
