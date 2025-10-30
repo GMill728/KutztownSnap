@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"objPlayer","order":1,"path":"objects/objPlayer/objPlayer.yy",},
     {"name":"AcademicForum","order":13,"path":"rooms/AcademicForum/AcademicForum.yy",},
     {"name":"Beeky","order":12,"path":"rooms/Beeky/Beeky.yy",},
     {"name":"Boehm","order":16,"path":"rooms/Boehm/Boehm.yy",},
@@ -29,5 +30,13 @@
     {"name":"RickenbachLearningCenter","order":10,"path":"rooms/RickenbachLearningCenter/RickenbachLearningCenter.yy",},
     {"name":"RohrbachLibrary","order":9,"path":"rooms/RohrbachLibrary/RohrbachLibrary.yy",},
     {"name":"Sharadin","order":3,"path":"rooms/Sharadin/Sharadin.yy",},
+    {"name":"charIdleDown","order":1,"path":"sprites/charIdleDown/charIdleDown.yy",},
+    {"name":"charIdleLeft","order":2,"path":"sprites/charIdleLeft/charIdleLeft.yy",},
+    {"name":"charIdleRight","order":3,"path":"sprites/charIdleRight/charIdleRight.yy",},
+    {"name":"charIdleUp","order":4,"path":"sprites/charIdleUp/charIdleUp.yy",},
+    {"name":"charWalkDown","order":5,"path":"sprites/charWalkDown/charWalkDown.yy",},
+    {"name":"charWalkLeft","order":6,"path":"sprites/charWalkLeft/charWalkLeft.yy",},
+    {"name":"charWalkRight","order":7,"path":"sprites/charWalkRight/charWalkRight.yy",},
+    {"name":"charWalkUp","order":8,"path":"sprites/charWalkUp/charWalkUp.yy",},
   ],
 }
