@@ -38,5 +38,12 @@
     {"name":"charWalkLeft","order":6,"path":"sprites/charWalkLeft/charWalkLeft.yy",},
     {"name":"charWalkRight","order":7,"path":"sprites/charWalkRight/charWalkRight.yy",},
     {"name":"charWalkUp","order":8,"path":"sprites/charWalkUp/charWalkUp.yy",},
+    {"name":"sprAvalanche","order":15,"path":"sprites/sprAvalanche/sprAvalanche.yy",},
+    {"name":"sprBilly","order":12,"path":"sprites/sprBilly/sprBilly.yy",},
+    {"name":"sprCeCe","order":13,"path":"sprites/sprCeCe/sprCeCe.yy",},
+    {"name":"sprMisha","order":14,"path":"sprites/sprMisha/sprMisha.yy",},
+    {"name":"sprRocky","order":11,"path":"sprites/sprRocky/sprRocky.yy",},
+    {"name":"sprRuby","order":10,"path":"sprites/sprRuby/sprRuby.yy",},
+    {"name":"sprStar","order":9,"path":"sprites/sprStar/sprStar.yy",},
   ],
 }
