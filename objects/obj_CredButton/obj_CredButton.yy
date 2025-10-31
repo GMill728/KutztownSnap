@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Quit",
-  "eventList":[],
+  "%Name":"obj_CredButton",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_Quit",
+  "name":"obj_CredButton",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_CredButton",
+    "path":"sprites/spr_CredButton/spr_CredButton.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

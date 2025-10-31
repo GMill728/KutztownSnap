@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Credits",
-  "eventList":[],
+  "%Name":"obj_QuitButton",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_Credits",
+  "name":"obj_QuitButton",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_QuitButton",
+    "path":"sprites/spr_QuitButton/spr_QuitButton.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
