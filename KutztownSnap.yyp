@@ -35,6 +35,7 @@
   },
   "name":"KutztownSnap",
   "resources":[
+    {"id":{"name":"obj_BackButton","path":"objects/obj_BackButton/obj_BackButton.yy",},},
     {"id":{"name":"obj_CredButton","path":"objects/obj_CredButton/obj_CredButton.yy",},},
     {"id":{"name":"obj_PlayButton","path":"objects/obj_PlayButton/obj_PlayButton.yy",},},
     {"id":{"name":"obj_QuitButton","path":"objects/obj_QuitButton/obj_QuitButton.yy",},},
