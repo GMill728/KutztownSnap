@@ -1,6 +1,7 @@
+draw_self()
 if ChatterboxIsStopped(chatterbox)
 {
-	instance_destroy(self);
+	draw_text(0,0,"");
 }
 else 
 {

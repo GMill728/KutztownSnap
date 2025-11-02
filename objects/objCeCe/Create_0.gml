@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-thisPlayer = new Player(self, 2);
-global.inDialogue = false;
+
+// Inherit the parent event
+event_inherited();
+ChatterboxJump(chatterbox,"CeCe");
