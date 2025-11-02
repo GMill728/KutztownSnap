@@ -20,23 +20,23 @@ else if (!global.inMenu)
 if (place_meeting(x, y, obj_RoomChangeCollision)) {
 	
 	//gets the specific obj_roomchangecollision and info
-    /*var newRoom = instance_place(x, y, obj_RoomChangeCollision); 
+    var newRoom = instance_place(x, y, obj_RoomChangeCollision); 
     
 	//moves to the next room
     room_goto(newRoom.NextRoom);
 
 	//spawns the player at the specified x and y coordinate
     x = newRoom.PlayerSpawnpointX;
-    y = newRoom.PlayerSpawnpointY;*/
+    y = newRoom.PlayerSpawnpointY;
 	
-	if (instance_place(x, y, obj_RoomChangeCollision).x > room_width/2)
+	/*if (instance_place(x, y, obj_RoomChangeCollision).x > room_width/2)
 	{
-		x = 50;
+		x = 200;
 		room_goto_next()
 	}
 	else
 	{
-		x = room_width - 150;
+		x = room_width - 350;
 		room_goto_previous()
-	}
+	}*/
 }
