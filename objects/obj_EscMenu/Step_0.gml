@@ -3,7 +3,7 @@
 
 
 
-if (keyboard_check_pressed(vk_escape)) {
+if (keyboard_check_pressed(vk_escape) && !global.inDialogue) {
 	if (obj_EscMenu.EscMenuPulledUp = false && obj_EscMenu.makeInvisible = false) {
 	EscMenuPulledUp = true;
 	global.inMenu = true;

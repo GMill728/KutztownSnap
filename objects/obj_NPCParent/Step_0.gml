@@ -1,4 +1,4 @@
-if (keyboard_check_pressed(vk_space) && place_meeting(x,y,objPlayer))
+if (keyboard_check_pressed(vk_space) && place_meeting(x,y,objPlayer) && !global.inMenu)
 {
 	text = ChatterboxGetContentSpeech(chatterbox, 0);
 	speaker = ChatterboxGetContentSpeaker(chatterbox, 0);

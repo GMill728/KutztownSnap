@@ -3,7 +3,7 @@
 
 
 //pull up the inventory
-if (obj_EscMenu.EscMenuPulledUp = false && obj_EscMenu.makeInvisible = false) {
+if (obj_EscMenu.EscMenuPulledUp = false && obj_EscMenu.makeInvisible = false  && !global.inDialogue) {
 	showInventory = true;
 	obj_EscMenu.makeInvisible = true;
 	global.inMenu = true;
