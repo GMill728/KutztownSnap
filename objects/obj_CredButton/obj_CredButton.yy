@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_StartGame",
-  "eventList":[],
+  "%Name":"obj_CredButton",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_StartGame",
+  "name":"obj_CredButton",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_CredButton",
+    "path":"sprites/spr_CredButton/spr_CredButton.yy",
+  },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
