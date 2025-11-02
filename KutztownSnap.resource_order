@@ -16,6 +16,7 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Menu","order":3,"path":"folders/Objects/Menu.yy",},
     {"name":"NPCs","order":2,"path":"folders/Objects/NPCs.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
@@ -29,6 +30,9 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_Exclamation","order":7,"path":"objects/obj_Exclamation/obj_Exclamation.yy",},
+    {"name":"obj_PlayButton","order":1,"path":"objects/obj_PlayButton/obj_PlayButton.yy",},
+    {"name":"obj_QuitButton","order":2,"path":"objects/obj_QuitButton/obj_QuitButton.yy",},
     {"name":"objBilly","order":1,"path":"objects/objBilly/objBilly.yy",},
     {"name":"objCeCe","order":2,"path":"objects/objCeCe/objCeCe.yy",},
     {"name":"objMisha","order":3,"path":"objects/objMisha/objMisha.yy",},
