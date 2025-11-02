@@ -27,14 +27,10 @@ function Player(objInstance, movSpd) constructor{
 		} 
 		if (keyboard_check(ord("S")) ) {
 			instance.sprite_index = charWalkDown;
-			vsp = moveSpeed; 
-			instance.y += moveSpeed;
 			
 		} 
 		if (keyboard_check(ord("W")) ) {
 			instance.sprite_index = charWalkUp;
-			vsp = -moveSpeed;
-			instance.y -= moveSpeed;
 			
 		}
 
@@ -77,6 +73,5 @@ function Player(objInstance, movSpd) constructor{
 		
 				instance.x += moveSpeed;
 				instance.y += moveSpeed;
-				
 	}//end move
 }
