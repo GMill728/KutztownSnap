@@ -7,3 +7,13 @@ if (!global.inDialogue)
 
 show_debug_message("Player y-coordinate: " + string(y));
 show_debug_message("Player x-coordinate: " + string(x));
+
+if (place_meeting(x, y+1, obj_Ground))
+{
+	y -= 1;
+}
+else
+{
+	y += 1;	
+}
+
