@@ -29,6 +29,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_Controls","order":1,"path":"objects/obj_Controls/obj_Controls.yy",},
     {"name":"obj_EscMenu","order":2,"path":"objects/obj_EscMenu/obj_EscMenu.yy",},
+    {"name":"obj_Ground","order":4,"path":"objects/obj_Ground/obj_Ground.yy",},
     {"name":"obj_InventoryCamera","order":1,"path":"objects/obj_InventoryCamera/obj_InventoryCamera.yy",},
     {"name":"obj_InventoryCameraStand","order":2,"path":"objects/obj_InventoryCameraStand/obj_InventoryCameraStand.yy",},
     {"name":"obj_InventoryHeadphones","order":3,"path":"objects/obj_InventoryHeadphones/obj_InventoryHeadphones.yy",},
@@ -64,6 +65,7 @@
     {"name":"spr_DefranScrapbookPage","order":3,"path":"sprites/spr_DefranScrapbookPage/spr_DefranScrapbookPage.yy",},
     {"name":"spr_EscMenuButton","order":2,"path":"sprites/spr_EscMenuButton/spr_EscMenuButton.yy",},
     {"name":"spr_GoldenBearStatue","order":9,"path":"sprites/spr_GoldenBearStatue/spr_GoldenBearStatue.yy",},
+    {"name":"spr_GreenBox","order":15,"path":"sprites/spr_GreenBox/spr_GreenBox.yy",},
     {"name":"spr_Grim","order":10,"path":"sprites/spr_Grim/spr_Grim.yy",},
     {"name":"spr_GrimScrapbookPage","order":4,"path":"sprites/spr_GrimScrapbookPage/spr_GrimScrapbookPage.yy",},
     {"name":"spr_InventoryCameraStand","order":1,"path":"sprites/spr_InventoryCameraStand/spr_InventoryCameraStand.yy",},
