@@ -1,1 +1,1 @@
-room_goto(GoldenBearStatue);
+room_goto(Beeky);
