@@ -1,6 +1,7 @@
+//Beekey from right
 //The room that the collision box leads too
-NextRoom = McFarladStudentUnion;
+NextRoom = Beeky;
 
 //The X and Y coordinate where the player spawns at in the next room
-PlayerSpawnpointX = 1209;      
-PlayerSpawnpointY = 262;       
+PlayerSpawnpointX = 154;      
+PlayerSpawnpointY = 736;  

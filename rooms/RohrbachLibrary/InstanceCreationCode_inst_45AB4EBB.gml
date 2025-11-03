@@ -1,6 +1,7 @@
+//LytleRight
 //The room that the collision box leads too
-NextRoom = AcademicForum;
+NextRoom = LytleHall;
 
 //The X and Y coordinate where the player spawns at in the next room
-PlayerSpawnpointX = 1530;      
-PlayerSpawnpointY = 832;       
+PlayerSpawnpointX = 1480;      
+PlayerSpawnpointY = 704;      

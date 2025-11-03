@@ -1,6 +1,7 @@
+//Beekey from right
 //The room that the collision box leads too
-NextRoom = LytleHall;
+NextRoom = Beeky;
 
 //The X and Y coordinate where the player spawns at in the next room
-PlayerSpawnpointX = 1480;      
-PlayerSpawnpointY = 704;       
+PlayerSpawnpointX = 1634;      
+PlayerSpawnpointY = 736;  

@@ -1,6 +1,8 @@
+
+//Grim Left
 //The room that the collision box leads too
-NextRoom = RohrbachLibrary;
+NextRoom = Grim;
 
 //The X and Y coordinate where the player spawns at in the next room
-PlayerSpawnpointX = 234;      
-PlayerSpawnpointY = 598;       
+PlayerSpawnpointX = 149;      
+PlayerSpawnpointY = 785;   

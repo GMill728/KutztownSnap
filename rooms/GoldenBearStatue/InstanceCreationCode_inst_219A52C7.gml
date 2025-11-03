@@ -1,6 +1,7 @@
+//MSU from center
 //The room that the collision box leads too
-NextRoom = RohrbachLibrary;
+NextRoom = McFarladStudentUnion;
 
 //The X and Y coordinate where the player spawns at in the next room
-PlayerSpawnpointX = 170;      
-PlayerSpawnpointY = 603;       
+PlayerSpawnpointX = 854;      
+PlayerSpawnpointY = 638;       
