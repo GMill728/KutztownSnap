@@ -3,4 +3,4 @@ NextRoom = RickenbachLearningCenter;
 
 //The X and Y coordinate where the player spawns at in the next room
 PlayerSpawnpointX = 220;      
-PlayerSpawnpointY = 900;       
+PlayerSpawnpointY = 640;       

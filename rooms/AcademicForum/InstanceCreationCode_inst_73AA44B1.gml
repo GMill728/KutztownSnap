@@ -2,5 +2,5 @@
 NextRoom = Grim;
 
 //The X and Y coordinate where the player spawns at in the next room
-PlayerSpawnpointX = 1209;      
-PlayerSpawnpointY = 262;       
+PlayerSpawnpointX = 1535;      
+PlayerSpawnpointY = 688;       

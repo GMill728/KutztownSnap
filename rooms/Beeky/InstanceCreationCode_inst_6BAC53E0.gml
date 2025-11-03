@@ -2,5 +2,5 @@
 NextRoom = deFrancesco;
 
 //The X and Y coordinate where the player spawns at in the next room
-PlayerSpawnpointX = 1500;      
-PlayerSpawnpointY = 900;       
+PlayerSpawnpointX = 1440;      
+PlayerSpawnpointY = 865;       
