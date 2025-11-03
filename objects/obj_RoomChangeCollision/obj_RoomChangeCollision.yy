@@ -34,5 +34,5 @@
     "path":"sprites/spr_RoomChangeCollision/spr_RoomChangeCollision.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
