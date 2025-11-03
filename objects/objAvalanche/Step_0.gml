@@ -3,7 +3,7 @@
 
 // Inherit the parent event
 event_inherited();
-if (keyboard_check_pressed(vk_space) && place_meeting(x,y,objPlayer) && !global.inMenu)
+if (keyboard_check_pressed(ord("F")) && place_meeting(x,y,objPlayer) && !global.inMenu)
 {
 	if (objPlayer.talkedToAvalanche && objPlayer.talkedToMisha && objPlayer.talkedToBilly && objPlayer.talkedToCeCe && objPlayer.talkedToRocky && objPlayer.talkedToRuby && objPlayer.talkedToStar)
 	{
