@@ -2,5 +2,5 @@
 NextRoom = GoldenBearStatue;
 
 //The X and Y coordinate where the player spawns at in the next room
-PlayerSpawnpointX = 1209;      
-PlayerSpawnpointY = 262;       
+PlayerSpawnpointX = 214;      
+PlayerSpawnpointY = 832;       
