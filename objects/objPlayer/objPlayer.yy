@@ -35,6 +35,9 @@
     "name":"charIdleDown",
     "path":"sprites/charIdleDown/charIdleDown.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"charIdleDown",
+    "path":"sprites/charIdleDown/charIdleDown.yy",
+  },
   "visible":true,
 }

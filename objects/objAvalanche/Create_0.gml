@@ -3,4 +3,11 @@
 
 // Inherit the parent event
 event_inherited();
-ChatterboxJump(chatterbox,"Intro");
+if (objPlayer.talkedToAvalanche && objPlayer.talkedToMisha && objPlayer.talkedToBilly && objPlayer.talkedToCeCe && objPlayer.talkedToRocky && objPlayer.talkedToRuby && objPlayer.talkedToStar)
+{
+	ChatterboxJump(chatterbox,"Finale");
+}
+else
+{
+	ChatterboxJump(chatterbox,"Intro");
+}

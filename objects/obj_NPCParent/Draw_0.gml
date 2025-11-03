@@ -5,6 +5,6 @@ if ChatterboxIsStopped(chatterbox)
 }
 else 
 {
-	draw_text(100,80,speaker);
-	draw_text(100,100,text);
+	draw_text_colour(128,128,speaker,0,0,0,0,1);
+	draw_text_colour(128,148,text,0,0,0,0,1);
 }

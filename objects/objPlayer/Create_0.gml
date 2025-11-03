@@ -15,3 +15,11 @@ hasHeadphones = false;
 
 //boolean for the ID obj being displayed in the inventory
 hasID = false;
+
+talkedToAvalanche = false;
+talkedToBilly = false;
+talkedToCeCe = false;
+talkedToMisha = false;
+talkedToRocky = false;
+talkedToRuby = false;
+talkedToStar = false;
